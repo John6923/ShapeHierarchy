@@ -15,5 +15,9 @@ public class Wheel extends Circle {
 	public void draw(){
 		
 	}
+	
+	public void setSpokes(int s){
+		spokes = s;
+	}
 
 }
